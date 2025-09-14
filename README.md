@@ -1,103 +1,90 @@
-<h1 align="center">✨ Hey there, I'm <strong>riflowsxz</strong> 👋</h1>
-
+<!-- Animated Typing Header -->
 <p align="center">
-  <em>Full-Stack Developer • UI/UX Artisan • IoT Tinkerer • Digital Alchemist</em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riflowsxz&style=flat-square" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=riflowsxz;Full-Stack+Developer;UI%2FUX+Craftsman;IoT+Explorer;Cybersec+Learner" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧭 About Me
-
-Hi! I'm a curious soul who crafts modern web applications, sharp UIs, and connected systems.  
-I enjoy turning abstract ideas into functional, aesthetic, and meaningful digital products.
-
-- 🎓 Self-taught & student by nature  
-- ⚡ Constantly exploring new tech stacks and design patterns  
-- 🌐 Passionate about Full-Stack Engineering, UI/UX Design, and the Internet of Things  
-
----
-
-## 🧰 Toolbox
-
-<p align="center">
-
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/>
-
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white"/>
-
-</p>
+<div align="center" style="border: 1px solid #333; border-radius: 12px; padding: 20px; margin: 15px; background: rgba(20,20,20,0.6); box-shadow: 0 0 15px #0ff;">
+  
+  <h2>📬 Connect with Me</h2>
+  <p>
+    <a href="mailto:riflowsxz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/riflowsxz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://github.com/riflowsxz"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://instagram.com/riflowsxz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <a href="https://wa.me/628xxxxxxx"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  </p>
+</div>
 
 ---
 
-## 🚀 GitHub Stats
+<div align="center" style="border: 1px solid #333; border-radius: 12px; padding: 20px; margin: 15px; background: rgba(20,20,20,0.6); box-shadow: 0 0 15px #0ff;">
+  
+  <h2>🛠️ Skills & Tools</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riflowsxz&show_icons=true&hide_title=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=riflowsxz&theme=tokyonight" height="165"/>
-</p>
+  <h4>🔹 Programming</h4>
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img src="https://img.shields.io/badge/TypeScript-181717?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+    <img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=3776AB"/>
+    <img src="https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=java&logoColor=red"/>
+    <img src="https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=node.js&logoColor=339933"/>
+    <img src="https://img.shields.io/badge/Express.js-181717?style=for-the-badge&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-181717?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
+  </p>
 
----
-
-## 📌 Featured Projects
-
-> ⚙️ Selected works showcasing code, creativity, and curiosity.
-
-- 🔐 [**Secure-RDP with GitHub Actions**](https://github.com/riflowsxz/secure-rdp)  
-  Automates RDP setup on Windows via GitHub Actions + PowerShell.
-
-- 🌤️ [**IoT Weather Dashboard**](https://github.com/riflowsxz/iot-weather-dashboard)  
-  Real-time weather station powered by sensors, Node.js, and visualization.
-
-- 🖼️ [**Portfolio Website**](https://github.com/riflowsxz/portfolio-site)  
-  Sleek personal site built with Next.js + TailwindCSS.
-
----
-
-## 🎯 Mission 2025
-
-- 💻 Master full-stack patterns with React & Node.js  
-- 📱 Dive into Flutter and/or React Native for mobile builds  
-- 🌍 Open-source contributions & community learning  
-- 🧪 Get hands-on with CTFs, Kali tools, and infosec toys  
+  <h4>🔹 Tools & Platforms</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+    <img src="https://img.shields.io/badge/Kali%20Linux-181717?style=for-the-badge&logo=kalilinux&logoColor=557C94"/>
+    <img src="https://img.shields.io/badge/VSCode-181717?style=for-the-badge&logo=visualstudiocode&logoColor=0078D4"/>
+    <img src="https://img.shields.io/badge/Firebase-181717?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+    <img src="https://img.shields.io/badge/Vercel-181717?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Netlify-181717?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
+    <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=F05032"/>
+  </p>
+</div>
 
 ---
 
-## 🤓 Developer Quirks
-
-- ⚙️ I’ll tweak a `.bashrc` file for hours just for aesthetics  
-- 🛠️ I build first, debug second (docs are optional at first 💀)  
-- 🎧 Code fuel: Synthwave + Lofi = flow mode  
-- 🧠 Sometimes I talk to my terminal like it’s listening...
+<div align="center" style="border: 1px solid #333; border-radius: 12px; padding: 20px; margin: 15px; background: rgba(20,20,20,0.6); box-shadow: 0 0 15px #0ff;">
+  
+  <h2>🎵 My Playlist</h2>
+  <p>
+    <a href="https://open.spotify.com/user/xxxxx"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a>
+    <a href="https://youtube.com/@xxxxx"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  </p>
+</div>
 
 ---
 
-## 📬 Let's Connect
+<div align="center" style="border: 1px solid #333; border-radius: 12px; padding: 20px; margin: 15px; background: rgba(20,20,20,0.6); box-shadow: 0 0 15px #0ff;">
+  
+  <h2>🎬 Favorite Anime</h2>
+  <p>
+    <img src="https://i.imgur.com/DGd1y.jpg" width="130"/>
+    <img src="https://i.imgur.com/Lw1rM.jpg" width="130"/>
+    <img src="https://i.imgur.com/JxFqL.jpg" width="130"/>
+    <img src="https://i.imgur.com/ytc2M.jpg" width="130"/>
+    <img src="https://i.imgur.com/HM1eh.jpg" width="130"/>
+  </p>
+</div>
 
-<p align="center">
-  <a href="mailto:riflowsxz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/riflowsxz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/riflowsxz"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://instagram.com/riflowsxz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+---
+
+<div align="center" style="border: 1px solid #333; border-radius: 12px; padding: 20px; margin: 15px; background: rgba(20,20,20,0.6); box-shadow: 0 0 15px #0ff;">
+  
+  <h2>📊 GitHub Stats</h2>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=riflowsxz&show_icons=true&theme=radical&hide_border=true" height="165"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=riflowsxz&theme=radical&hide_border=true" height="165"/>
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riflowsxz&layout=compact&theme=radical&hide_border=true"/>
+  </p>
+</div>
+
+---
+
+<p align="center"><em>⚡ automation, security, and code — that's riflowsxz.</em></p>
