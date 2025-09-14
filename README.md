@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm riflowsxz 👋</h1>
 
 <p align="center">
-  <strong>🚀 Full-Stack Developer | 🎨 UI/UX Enthusiast | 🌐 Tech Explorer | 📡 IoT Learner</strong>
+  <strong>🚀 FULL-STACK DEVELOPER | 🎨 UI/UX ENTHUSIAST | 🌐 TECH EXPLORER | 📡 IOT LEARNER</strong>
 </p>
 
 ---
