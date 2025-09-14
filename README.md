@@ -63,12 +63,13 @@
   
   <h2>🎬 Favorite Anime</h2>
   <p>
-    <img src="https://i.imgur.com/DGd1y.jpg" width="130"/>
-    <img src="https://i.imgur.com/Lw1rM.jpg" width="130"/>
-    <img src="https://i.imgur.com/JxFqL.jpg" width="130"/>
-    <img src="https://i.imgur.com/ytc2M.jpg" width="130"/>
-    <img src="https://i.imgur.com/HM1eh.jpg" width="130"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/0/00/Angel_Beats%21_key_visual.jpg" width="130" title="Angel Beats"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/6/6f/Death_Note_Vol_1.jpg" width="130" title="Death Note"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg" width="130" title="Naruto"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Ao_no_Exorcist_Vol_1.jpg" width="130" title="Ao no Exorcist"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/7/7e/Shingeki_no_Kyojin_manga_volume_1.jpg" width="130" title="Attack on Titan"/>
   </p>
+  <p><em>(anime favorit yang selalu jadi inspirasi coding + life vibes 🎧)</em></p>
 </div>
 
 ---
