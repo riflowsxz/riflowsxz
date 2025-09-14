@@ -4,13 +4,9 @@
   <strong>🚀 FULL-STACK DEVELOPER | 🎨 UI/UX ENTHUSIAST | 🌐 TECH EXPLORER | 📡 IOT LEARNER</strong>
 </p>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=riflowsxz&style=flat-square" alt="Profile Views"/>
 </p>
-
----
 
 ## 👨‍💻 About Me
 
