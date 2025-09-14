@@ -1,126 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=riflowsxz;Full-Stack+Developer;UI%2FUX+Designer;IoT+Explorer;Cybersecurity+Learner" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi, I'm riflowsxz 👋</h1>
 
 <p align="center">
-  <em>“Code is my craft, design is my voice, and systems are my playground.”</em>
-</p>
-
----
-
-## 🧭 About Me
-
-Hi, I’m **riflowsxz** 👋  
-I create modern applications with a blend of **clarity, functionality, and elegance**.  
-My work is driven by three principles:
-
-- 🎨 **Intentional Design** → users first, then components, then systems.  
-- ⚙️ **Pragmatic Engineering** → clean, maintainable, scalable.  
-- 🔒 **Security Mindset** → automation & minimal attack surface.  
-
----
-
-## 🛠 Tech Arsenal
-
-<div align="center">
-
-**Languages & Core**  
-![JS](https://img.shields.io/badge/JavaScript-181717?style=flat&logo=javascript&logoColor=F7DF1E)
-![TS](https://img.shields.io/badge/TypeScript-181717?style=flat&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-181717?style=flat&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-181717?style=flat&logo=openjdk&logoColor=ED8B00)
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-181717?style=flat&logo=react&logoColor=61DAFB)
-![Next](https://img.shields.io/badge/Next.js-181717?style=flat&logo=next.js&logoColor=FFFFFF)
-![Tailwind](https://img.shields.io/badge/Tailwind-181717?style=flat&logo=tailwind-css&logoColor=06B6D4)
-
-**Backend & Data**  
-![Node](https://img.shields.io/badge/Node.js-181717?style=flat&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-181717?style=flat&logo=express&logoColor=FFFFFF)
-![MongoDB](https://img.shields.io/badge/MongoDB-181717?style=flat&logo=mongodb&logoColor=4EA94B)
-![Firebase](https://img.shields.io/badge/Firebase-181717?style=flat&logo=firebase&logoColor=FFCA28)
-
-**Ops & Tools**  
-![Linux](https://img.shields.io/badge/Linux-181717?style=flat&logo=linux&logoColor=FCC624)
-![Kali](https://img.shields.io/badge/Kali%20Linux-181717?style=flat&logo=kalilinux&logoColor=557C94)
-![Vercel](https://img.shields.io/badge/Vercel-181717?style=flat&logo=vercel&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/Git-181717?style=flat&logo=git&logoColor=F05032)
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-- 🔐 **[Secure-RDP](https://github.com/riflowsxz/secure-rdp)** → Automating ephemeral RDP environments with GitHub Actions + PowerShell.  
-- 🌤️ **[IoT Weather Dashboard](https://github.com/riflowsxz/iot-weather-dashboard)** → Real-time sensor data visualized with Node.js + charts.  
-- 🖼️ **[Portfolio Website](https://github.com/riflowsxz/portfolio-site)** → Clean Next.js + Tailwind showcase of my work & design taste.  
-
----
-
-## 🎯 Focus 2025
-
-- 🚀 Refine full-stack with React + Node (patterns, scaling, queues).  
-- 📱 Cross-platform apps (Flutter & React Native).  
-- 🧩 Contribute to open-source communities.  
-- 🔒 Cybersecurity learning via CTF & Kali Linux tools.  
-
----
-
-## 🎬 Favorite Anime
-
-<div align="center">
-
-| Anime | Poster | Why It Inspires |
-|-------|--------|-----------------|
-| Death Note | <img src="https://upload.wikimedia.org/wikipedia/en/6/6f/Death_Note_Vol_1.jpg" width="90"/> | Strategy, logic, and design of consequences. |
-| Naruto | <img src="https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg" width="90"/> | Growth mindset, perseverance, bonds. |
-| Attack on Titan | <img src="https://upload.wikimedia.org/wikipedia/en/7/7e/Shingeki_no_Kyojin_manga_volume_1.jpg" width="90"/> | World-building, freedom, and system-level tradeoffs. |
-| Fullmetal Alchemist | <img src="https://upload.wikimedia.org/wikipedia/en/5/5e/FullmetalAlchemistVolume1.jpg" width="90"/> | Law of equivalent exchange — nothing free in engineering. |
-| Steins;Gate | <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Steins%3BGate_cover.png" width="90"/> | Cause & effect, time, rollback, responsibility. |
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=riflowsxz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=riflowsxz&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riflowsxz&layout=compact&theme=tokyonight&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=riflowsxz&theme=onedark&margin-w=10&margin-h=10&no-frame=true)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-- ⚡ Built automation scripts adopted in multiple projects.  
-- 🎖️ Active participant in Capture the Flag (CTF) challenges.  
-- 🌐 Contributed to open-source templates for deployment & tooling.  
-
----
-
-## 🎵 Music Fuel
-
-<p align="center">
-  <a href="https://open.spotify.com/user/your_id"><img src="https://img.shields.io/badge/Spotify-181717?style=for-the-badge&logo=spotify&logoColor=1DB954"/></a>
-  <a href="https://youtube.com/@your_channel"><img src="https://img.shields.io/badge/YouTube-181717?style=for-the-badge&logo=youtube&logoColor=FF0000"/></a>
-</p>
-
-<sub align="center">Coding soundtrack: Synthwave · Lofi · Ambient</sub>
-
----
-
-## ✨ Quote
-
-<p align="center">
-  <em>“Simplicity is not about less. It’s about clarity and purpose.”</em>
+  <strong>🚀 FULL-STACK DEVELOPER | 🎨 UI/UX ENTHUSIAST | 🌐 TECH EXPLORER | 📡 IOT LEARNER</strong>
 </p>
 
 ---
@@ -129,4 +10,89 @@ My work is driven by three principles:
   <img src="https://komarev.com/ghpvc/?username=riflowsxz&style=flat-square" alt="Profile Views"/>
 </p>
 
-<p align="center"><sub>Minimalism in code · Elegance in design · Precision in execution ✦</sub></p>
+---
+
+## 👨‍💻 About Me
+
+🎓 I'm a passionate student and self-taught developer with a love for building modern web applications and intuitive user experiences.  
+💡 I'm always experimenting with new technologies, frameworks, and creative ideas to solve real-world problems.  
+🌱 I have deep interest in Full-Stack Development, UI/UX Design, and Internet of Things (IoT).  
+
+---
+
+## 🛠️ Skills & Tools
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riflowsxz&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riflowsxz&theme=default" alt="GitHub Streak Stats" height="165"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+- 🔐 [**Secure-RDP with GitHub Actions**](https://github.com/riflowsxz/secure-rdp)  
+  Automate Windows RDP environment deployment using GitHub Actions and PowerShell.
+
+- 💡 [**IoT Weather Dashboard**](https://github.com/riflowsxz/iot-weather-dashboard)  
+  Real-time weather monitoring system using sensors and Node.js backend.
+
+- 🖥️ [**Portfolio Website**](https://github.com/riflowsxz/portfolio-site)  
+  Personal portfolio built with Next.js and TailwindCSS.
+
+---
+
+## 🎯 Current Goals
+
+- 🚀 Sharpen full-stack development with React + Node.js  
+- 📱 Learn cross-platform mobile development (Flutter / React Native)  
+- 🌐 Contribute to open-source and grow my GitHub presence  
+- 💻 Explore cybersecurity tools and CTF challenges on Kali Linux  
+
+---
+
+## 🎉 Fun Developer Facts
+
+- 🧠 I love building stuff before reading documentation (and fixing later 😅)  
+- 🧑‍🔧 I spend hours tweaking Linux configs just for fun  
+- 🎧 My coding playlist? Synthwave + Lo-fi beats  
+- 💬 I talk to AI tools like they’re my teammates 👀  
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:riflowsxz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/riflowsxz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/riflowsxz"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://instagram.com/riflowsxz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
