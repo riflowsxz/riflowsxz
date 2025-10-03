@@ -1,93 +1,75 @@
-<h1 align="center">Hi, I'm riflowsxz 👋</h1>
-
 <p align="center">
-  <strong>🚀 FULL-STACK DEVELOPER | 🎨 UI/UX ENTHUSIAST | 🌐 TECH EXPLORER | 📡 IOT LEARNER</strong>
+  <img src="https://raw.githubusercontent.com/riflowsxz/tai/refs/heads/main/purple.jpeg">
+</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&duration=1000&pause=500&center=true&width=435&lines=hi+I'm+iqbal;full+stack+enthusiast;open+source+lovers" alt="Typing SVG" /></a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=riflowsxz&theme=onedark&row=1&column=7" alt="Trophy" />
 </p>
 
+### — tech stack
+<div align="center">
+	
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+</div>
+
+### — frontend
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+</div>
+
+### — backend
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+</div>
+
+### — tools - platform 
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+</div>
+
+
+
+## — github stats
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riflowsxz&style=flat-square" alt="Profile Views"/>
+  <img src="https://streak-stats.demolab.com?user=riflowsxz&theme=dark&background=transparent" alt="">
 </p>
-
-## 👨‍💻 About Me
-
-🎓 I'm a passionate student and self-taught developer with a love for building modern web applications and intuitive user experiences.  
-💡 I'm always experimenting with new technologies, frameworks, and creative ideas to solve real-world problems.  
-🌱 I have deep interest in Full-Stack Development, UI/UX Design, and Internet of Things (IoT).  
-
----
-
-## 🛠️ Skills & Tools
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="/github-contribution-grid-snake.svg"/>
+    <img src="/github-contribution-grid-snake.svg" alt="github-snake"/>
+  </picture>
+</div>
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=riflowsxz&label=Profile%20views&color=0e75b6&style=flat" alt="" />
 </p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riflowsxz&show_icons=true&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riflowsxz&layout=compact&theme=transparent" />
+</div>
 
----
-
-## 📊 GitHub Stats
-
+## connect with me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riflowsxz&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riflowsxz&theme=default" alt="GitHub Streak Stats" height="165"/>
-</p>
-
----
-
-## 📌 Featured Projects
-
-- 🔐 [**Secure-RDP with GitHub Actions**](https://github.com/riflowsxz/secure-rdp)  
-  Automate Windows RDP environment deployment using GitHub Actions and PowerShell.
-
-- 💡 [**IoT Weather Dashboard**](https://github.com/riflowsxz/iot-weather-dashboard)  
-  Real-time weather monitoring system using sensors and Node.js backend.
-
-- 🖥️ [**Portfolio Website**](https://github.com/riflowsxz/portfolio-site)  
-  Personal portfolio built with Next.js and TailwindCSS.
-
----
-
-## 🎯 Current Goals
-
-- 🚀 Sharpen full-stack development with React + Node.js  
-- 📱 Learn cross-platform mobile development (Flutter / React Native)  
-- 🌐 Contribute to open-source and grow my GitHub presence  
-- 💻 Explore cybersecurity tools and CTF challenges on Kali Linux  
-
----
-
-## 🎉 Fun Developer Facts
-
-- 🧠 I love building stuff before reading documentation (and fixing later 😅)  
-- 🧑‍🔧 I spend hours tweaking Linux configs just for fun  
-- 🎧 My coding playlist? Synthwave + Lo-fi beats  
-- 💬 I talk to AI tools like they’re my teammates 👀  
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:riflowsxz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/riflowsxz"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://instagram.com/riflowsxz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/riflowsxz">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" />
+  </a>
 </p>
