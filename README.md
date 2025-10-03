@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/riflowsxz/tai/refs/heads/main/purple.jpeg">
+  <img src="https://raw.githubusercontent.com/balxz/akuuu-muaakk/refs/heads/main/purple.jpeg">
 </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&duration=1000&pause=500&center=true&width=435&lines=hi+I'm+riflowsxz;full+stack+enthusiast;open+source+lovers" alt="Typing SVG" /></a>
 <p align="center">
