@@ -19,7 +19,7 @@
 
 ---
 
-## 🏆 Achievements
+## achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=riflowsxz&theme=onedark&row=1&column=7&margin-w=15&margin-h=15" alt="Trophy" />
@@ -27,46 +27,45 @@
 
 ---
 
-## Tech stack
+## tech stack
 
-### Languages
+### languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,go,python,bash,html,css" alt="Languages">
 </div>
 
-### Frontend
+### frontend
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,bootstrap,sass,webpack" alt="Frontend">
 </div>
 
-### Backend
+### backend
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,graphql" alt="Backend">
 </div>
 
-### Database & cloud
+### database & cloud
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,gcp,firebase" alt="Database & Cloud">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,gcp,firebase" alt="Database & cloud">
 </div>
 
-### Tools & platforms
+### tools & platforms
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,vscode,postman,linux,figma" alt="Tools & Platforms">
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,vscode,postman,linux,figma" alt="Tools & platforms">
 </div>
 
 ---
 
-## Github analytics
+## github analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=riflowsxz&theme=dark&background=transparent&date_format=j%20M%5B%20Y%5D&ring=4a9eff&fire=4a9eff" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=riflowsxz&theme=dark&background=transparent&date_format=j%20M%5B%20Y%5D&ring=4a9eff&fire=4a9eff" alt="github streak">
 </p>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riflowsxz/riflowsxz/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/riflowsxz/riflowsxz/output/github-contribution-grid-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/riflowsxz/riflowsxz/output/github-contribution-grid-snake.svg" alt="github-snake"/>
   </picture>
 </div>
 
@@ -81,20 +80,8 @@
 
 ---
 
-## Featured projects
 
-<div align="center">
-  <a href="https://github.com/riflowsxz/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riflowsxz&repo=project1&theme=dark&hide_border=true&bg_color=0D1117&title_color=4a9eff&icon_color=4a9eff&text_color=C9D1D9" alt="Project 1">
-  </a>
-  <a href="https://github.com/riflowsxz/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riflowsxz&repo=project2&theme=dark&hide_border=true&bg_color=0D1117&title_color=4a9eff&icon_color=4a9eff&text_color=C9D1D9" alt="Project 2">
-  </a>
-</div>
-
----
-
-## Connect with me
+## connect with me
 
 <p align="center">
   <a href="https://instagram.com/riflowsxz">
@@ -113,9 +100,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/riflowsxz/riflowsxz/main/assets/bottom_header.svg" alt="Footer">
-</div>
