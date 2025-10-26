@@ -1,75 +1,125 @@
+<div align="center">
+  <img src="https://riflowsxz.my.id/123db3f3-7ff4-4047-bfed-5ebdcd43c288-eecc80442b1a96f1be30b3a2ebcb2d4b.jpg" alt="Profile" width="200" height="200" style="border-radius: 50%; border: 5px solid #4a9eff;">
+</div>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&center=true&width=600&lines=Hi+there!+👋;I'm+Riflowsxz;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  </a>
+</h1>
+
 <p align="center">
-  <img src="https://riflowsxz.my.id/123db3f3-7ff4-4047-bfed-5ebdcd43c288-eecc80442b1a96f1be30b3a2ebcb2d4b.jpg">
-</p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&duration=1000&pause=500&center=true&width=435&lines=hi+I'm+riflowsxz;full+stack+enthusiast;open+source+lovers" alt="Typing SVG" /></a>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riflowsxz&theme=onedark&row=1&column=7" alt="Trophy" />
-</p>
-
-### — tech stack
-<div align="center">
-	
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-</div>
-
-### — frontend
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-</div>
-
-### — backend
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-</div>
-
-### — tools - platform 
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-</div>
-
-
-
-## — github stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=riflowsxz&theme=dark&background=transparent" alt="">
-</p>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="/github-contribution-grid-snake.svg"/>
-    <img src="/github-contribution-grid-snake.svg" alt="github-snake"/>
-  </picture>
-</div>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riflowsxz&label=Profile%20views&color=0e75b6&style=flat" alt="" />
-</p>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riflowsxz&show_icons=true&theme=transparent" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riflowsxz&layout=compact&theme=transparent" />
-</div>
-
-## connect with me
-<p align="center">
-  <a href="https://instagram.com/riflowsxz">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" />
+  <a href="https://github.com/riflowsxz">
+    <img src="https://img.shields.io/github/followers/riflowsxz?label=Followers&logo=GitHub&style=for-the-badge&color=4a9eff" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/riflowsxz">
+    <img src="https://img.shields.io/github/stars/riflowsxz?affiliations=OWNER&label=Stars&style=for-the-badge&color=4a9eff" alt="GitHub stars">
   </a>
 </p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=riflowsxz&theme=onedark&row=1&column=7&margin-w=15&margin-h=15" alt="Trophy" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,go,python,bash,html,css" alt="Languages">
+</div>
+
+### 🎨 Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,bootstrap,sass,webpack" alt="Frontend">
+</div>
+
+### ⚙️ Backend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,graphql" alt="Backend">
+</div>
+
+### 🗄️ Database & Cloud
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,gcp,firebase" alt="Database & Cloud">
+</div>
+
+### 🛠️ Tools & Platforms
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,vscode,postman,linux,figma" alt="Tools & Platforms">
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=riflowsxz&theme=dark&background=transparent&date_format=j%20M%5B%20Y%5D&ring=4a9eff&fire=4a9eff" alt="GitHub Streak">
+</p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riflowsxz/riflowsxz/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/riflowsxz/riflowsxz/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/riflowsxz/riflowsxz/output/github-contribution-grid-snake.svg" alt="github-snake"/>
+  </picture>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riflowsxz&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=4a9eff&icon_color=4a9eff&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riflowsxz&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4a9eff&text_color=C9D1D9" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=riflowsxz&label=Profile%20views&color=4a9eff&style=flat-square" alt="Profile views" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/riflowsxz/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riflowsxz&repo=project1&theme=dark&hide_border=true&bg_color=0D1117&title_color=4a9eff&icon_color=4a9eff&text_color=C9D1D9" alt="Project 1">
+  </a>
+  <a href="https://github.com/riflowsxz/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riflowsxz&repo=project2&theme=dark&hide_border=true&bg_color=0D1117&title_color=4a9eff&icon_color=4a9eff&text_color=C9D1D9" alt="Project 2">
+  </a>
+</div>
+
+---
+
+## 📱 Connect With Me
+
+<p align="center">
+  <a href="https://instagram.com/riflowsxz">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://twitter.com/riflowsxz">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://linkedin.com/in/riflowsxz">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://discord.gg/riflowsxz">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="mailto:riflowsxz@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/riflowsxz/riflowsxz/main/assets/bottom_header.svg" alt="Footer">
+</div>
