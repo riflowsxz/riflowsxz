@@ -1,10 +1,8 @@
 <div align="center">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&center=true&width=600&lines=Hi+there!+👋;I'm+Riflowsxz;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
-  </a>
-</h1>
+<h1 align="center">Hi there! 👋</h1>
+<h2 align="center">I'm riflowsxz</h2>
+<h3 align="center">full stack developer | open source enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/riflowsxz">
