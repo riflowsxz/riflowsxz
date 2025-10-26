@@ -27,36 +27,36 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech stack
 
-### 💻 Languages
+### Languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,go,python,bash,html,css" alt="Languages">
 </div>
 
-### 🎨 Frontend
+### Frontend
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,bootstrap,sass,webpack" alt="Frontend">
 </div>
 
-### ⚙️ Backend
+### Backend
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,graphql" alt="Backend">
 </div>
 
-### 🗄️ Database & Cloud
+### Database & cloud
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,gcp,firebase" alt="Database & Cloud">
 </div>
 
-### 🛠️ Tools & Platforms
+### Tools & platforms
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,vscode,postman,linux,figma" alt="Tools & Platforms">
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## Github analytics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=riflowsxz&theme=dark&background=transparent&date_format=j%20M%5B%20Y%5D&ring=4a9eff&fire=4a9eff" alt="GitHub Streak">
@@ -81,7 +81,7 @@
 
 ---
 
-## 🌟 Featured Projects
+## Featured projects
 
 <div align="center">
   <a href="https://github.com/riflowsxz/project1">
@@ -94,7 +94,7 @@
 
 ---
 
-## 📱 Connect With Me
+## Connect with me
 
 <p align="center">
   <a href="https://instagram.com/riflowsxz">
@@ -115,10 +115,6 @@
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
-</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/riflowsxz/riflowsxz/main/assets/bottom_header.svg" alt="Footer">
