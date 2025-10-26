@@ -1,42 +1,16 @@
 <div align="center">
 
-<h1 align="center">Hi there! 👋</h1>
-<h2 align="center">I'm riflowsxz</h2>
-<h3 align="center">full stack developer | open source enthusiast</h3>
+<h3 align="center">RIFLOWSXZ FULL STACK DEVELOPER | OPEN SOURCE ENTHUSIAST</h3>
 
 <p align="center">
-  <a href="https://github.com/riflowsxz">
-    <img src="https://img.shields.io/github/followers/riflowsxz?label=Followers&logo=GitHub&style=for-the-badge&color=4a9eff" alt="GitHub followers">
-  </a>
-  <a href="https://github.com/riflowsxz">
-    <img src="https://img.shields.io/github/stars/riflowsxz?affiliations=OWNER&label=Stars&style=for-the-badge&color=4a9eff" alt="GitHub stars">
-  </a>
   <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=riflowsxz&label=Profile%20views&color=4a9eff&style=for-the-badge" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=riflowsxz&label=Profile%20views&color=4a9eff&style=for-the-badge" alt="profile views" />
   </a>
 </p>
 
 </div>
 
-## About Me
-
-Full Stack Developer with a passion for building scalable web applications and contributing to open source projects. I enjoy learning new technologies and solving complex problems through code.
-
-```javascript
-const riflowsxz = {
-  code: ["JavaScript", "TypeScript", "Python", "Go"],
-  technologies: {
-    frontend: ["React", "Vue", "Next.js", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "Django", "FastAPI"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-    devOps: ["Docker", "Kubernetes", "AWS", "GCP"]
-  },
-  currentFocus: "Building scalable web applications",
-  challenge: "I am constantly learning and improving my skills"
-};
-```
-
-## Tech Stack
+## Tech stack
 
 ### Languages
 <div align="center">
@@ -53,24 +27,20 @@ const riflowsxz = {
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,graphql" alt="Backend">
 </div>
 
-### Database & Cloud
+### Database & cloud
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,gcp,firebase" alt="Database & Cloud">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,gcp,firebase" alt="Database & cloud">
 </div>
 
-### Tools & Platforms
+### Tools & platforms
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,vscode,postman,linux,figma" alt="Tools & Platforms">
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,vscode,postman,linux,figma" alt="Tools & platforms">
 </div>
 
-## GitHub Statistics
+## Github statistics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riflowsxz&theme=onedark&row=1&column=7&margin-w=15&margin-h=15" alt="Trophy" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=riflowsxz&theme=dark&background=transparent&date_format=j%20M%5B%20Y%5D&ring=4a9eff&fire=4a9eff" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=riflowsxz&theme=dark&background=transparent&date_format=j%20M%5B%20Y%5D&ring=4a9eff&fire=4a9eff" alt="Github streak">
 </p>
 
 <div align="center">
@@ -86,7 +56,7 @@ const riflowsxz = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riflowsxz&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4a9eff&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
-## Connect With Me
+## Connect with me
 
 <p align="center">
   <a href="https://instagram.com/riflowsxz">
@@ -108,6 +78,6 @@ const riflowsxz = {
 
 <div align="center">
   
-**Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.**
+**Thanks for visiting my profile! feel free to explore my repositories and reach out if you'd like to collaborate.**
 
 </div>
