@@ -1,102 +1,219 @@
 <div align="center">
-  <img src="https://riflowsxz.my.id/123db3f3-7ff4-4047-bfed-5ebdcd43c288-eecc80442b1a96f1be30b3a2ebcb2d4b.jpg" alt="Profile" width="200" height="200" style="border-radius: 50%; border: 5px solid #4a9eff;">
-</div>
 
-<h1 align="center">
+# 👋 Welcome to My Digital Space
+
+<h3>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&center=true&width=600&lines=Hi+there!+👋;I'm+Riflowsxz;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%92%BB;Building+Digital+Experiences+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
   </a>
-</h1>
+</h3>
 
-<p align="center">
+<p>
   <a href="https://github.com/riflowsxz">
-    <img src="https://img.shields.io/github/followers/riflowsxz?label=Followers&logo=GitHub&style=for-the-badge&color=4a9eff" alt="GitHub followers">
+    <img src="https://img.shields.io/github/followers/riflowsxz?label=Followers&logo=GitHub&style=for-the-badge&color=7c3aed&labelColor=1e1e2e" alt="GitHub followers">
   </a>
   <a href="https://github.com/riflowsxz">
-    <img src="https://img.shields.io/github/stars/riflowsxz?affiliations=OWNER&label=Stars&style=for-the-badge&color=4a9eff" alt="GitHub stars">
+    <img src="https://img.shields.io/github/stars/riflowsxz?affiliations=OWNER&label=Stars&style=for-the-badge&color=7c3aed&labelColor=1e1e2e" alt="GitHub stars">
+  </a>
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=riflowsxz&label=Profile%20Views&color=7c3aed&style=for-the-badge&labelColor=1e1e2e" alt="Profile views" />
   </a>
 </p>
 
----
-
-## achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riflowsxz&theme=onedark&row=1&column=7&margin-w=15&margin-h=15" alt="Trophy" />
-</p>
-
----
-
-## tech stack
-
-### languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,go,python,bash,html,css" alt="Languages">
-</div>
-
-### frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,bootstrap,sass,webpack" alt="Frontend">
-</div>
-
-### backend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,graphql" alt="Backend">
-</div>
-
-### database & cloud
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,gcp,firebase" alt="Database & cloud">
-</div>
-
-### tools & platforms
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,vscode,postman,linux,figma" alt="Tools & platforms">
 </div>
 
 ---
 
-## github analytics
+## 🎯 About Me
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=riflowsxz&theme=dark&background=transparent&date_format=j%20M%5B%20Y%5D&ring=4a9eff&fire=4a9eff" alt="github streak">
-</p>
+```typescript
+const riflowsxz = {
+    role: "Full Stack Developer",
+    location: "🌏 Southeast Asia",
+    currentFocus: ["Web3", "AI Integration", "Cloud Architecture"],
+    philosophy: "Code with purpose, build with passion",
+    lifeGoal: "Making the web more accessible and beautiful",
+    funFact: "I debug with console.log() and I'm not ashamed 😄"
+};
+```
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riflowsxz/riflowsxz/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/riflowsxz/riflowsxz/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riflowsxz&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=4a9eff&icon_color=4a9eff&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riflowsxz&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4a9eff&text_color=C9D1D9" />
-</div>
+### 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riflowsxz&label=Profile%20views&color=4a9eff&style=flat-square" alt="Profile views" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=riflowsxz&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="Trophy" />
+
+</div>
 
 ---
 
+## 💻 Technology Arsenal
 
-## connect with me
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
 
-<p align="center">
-  <a href="https://instagram.com/riflowsxz">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://twitter.com/riflowsxz">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://linkedin.com/in/riflowsxz">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://discord.gg/riflowsxz">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="mailto:riflowsxz@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+**Languages & Core**
+```
+JavaScript (ES6+)  ████████████████████░  95%
+TypeScript         ███████████████████░░  90%
+HTML5 & CSS3       ████████████████████░  95%
+```
+
+**Frameworks & Libraries**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,bootstrap,sass,webpack,vite" alt="Frontend">
+</div>
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br>
+
+**Languages**
+```
+Node.js            ███████████████████░░  90%
+Python             ██████████████████░░░  85%
+Go                 ████████████░░░░░░░░░  60%
+```
+
+**Frameworks & Tools**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,graphql,prisma" alt="Backend">
+</div>
+
+</details>
+
+<details open>
+<summary><b>🗄️ Database & Cloud Infrastructure</b></summary>
+<br>
+
+**Databases**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" alt="Databases">
+</div>
+
+**Cloud & DevOps**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker,kubernetes,linux,nginx" alt="Cloud">
+</div>
+
+</details>
+
+<details>
+<summary><b>🛠️ Development Tools & Workflow</b></summary>
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,bash,vim" alt="Tools">
+</div>
+
+**Version Control & Collaboration**
+- Git Flow & Trunk Based Development
+- CI/CD with GitHub Actions
+- Agile & Scrum Methodologies
+
+**Design & Prototyping**
+- Figma for UI/UX Design
+- Responsive Design Principles
+- Accessibility-First Approach
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### 📈 Contribution Stats
+
+<img src="https://streak-stats.demolab.com?user=riflowsxz&theme=radical&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed" alt="GitHub Streak">
+
+### 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riflowsxz/riflowsxz/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riflowsxz/riflowsxz/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/riflowsxz/riflowsxz/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+### 📉 Detailed Statistics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=riflowsxz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=7c3aed&icon_color=7c3aed&text_color=C9D1D9&border_radius=10" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riflowsxz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=C9D1D9&border_radius=10&langs_count=8" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| 🎯 **Project One** | Awesome web application | React, Node.js, MongoDB | ✅ Active |
+| 🌐 **Project Two** | Modern API service | FastAPI, PostgreSQL | 🚧 In Progress |
+| 🎨 **Project Three** | Beautiful UI library | Vue.js, Tailwind CSS | ✅ Active |
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+### 🌐 Social Media
+
+<a href="https://linkedin.com/in/riflowsxz">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn">
+</a>
+<a href="https://twitter.com/riflowsxz">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter">
+</a>
+<a href="https://instagram.com/riflowsxz">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram">
+</a>
+
+### 💬 Chat & Community
+
+<a href="https://discord.gg/riflowsxz">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord">
+</a>
+<a href="mailto:riflowsxz@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email">
+</a>
+
+---
+
+### 💝 Support My Work
+
+If you find my projects helpful, consider buying me a coffee! ☕
+
+<a href="https://ko-fi.com/riflowsxz">
+  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
+</a>
+<a href="https://github.com/sponsors/riflowsxz">
+  <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+
+---
+
+**✨ Made with 💜 by Riflowsxz**
+
+<sub>⭐️ Star my repos if you find them interesting!</sub>
+
+</div>
