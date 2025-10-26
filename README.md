@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://riflowsxz.my.id/123db3f3-7ff4-4047-bfed-5ebdcd43c288-eecc80442b1a96f1be30b3a2ebcb2d4b.jpg" alt="Profile" width="200" height="200" style="border: 2px solid #4a9eff; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 10px 30px rgba(74, 158, 255, 0.4)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
+  <img src="https://riflowsxz.my.id/123db3f3-7ff4-4047-bfed-5ebdcd43c288-eecc80442b1a96f1be30b3a2ebcb2d4b.jpg" alt="Profile" width="500" height="500" style="border: 2px solid #4a9eff; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 10px 30px rgba(74, 158, 255, 0.4)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
 </div>
 
 <p align="center">
